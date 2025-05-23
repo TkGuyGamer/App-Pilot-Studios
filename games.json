@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Bullet Box",
+        "image":"imgs/bullet.png",
+        "price":"paid",
+        "description":"A action packed game with bullets and boxes"
+    },
+
+    {
+        "id":2,
+        "name":"North Pole Delivers",
+        "image":"imgs/santa.png",
+        "price":"free",
+        "description":"A adventure game where you deliver presents to those who deserve it"
+    },
+
+    {
+        "id":3,
+        "name":"Nuclear Bounce",
+        "image":"imgs/nuclear.png",
+        "price":"free",
+        "description":"A action game about rockets and space"
+    },
+
+    {
+        "id":3,
+        "name":"Spider Robot",
+        "image":"imgs/spider.png",
+        "price":"free",
+        "description":"A fast paced adventure game about a spider"
+    }
+]
